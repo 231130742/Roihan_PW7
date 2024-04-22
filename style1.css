@@ -1,0 +1,45 @@
+h1 {
+    color: #056779;
+    display: inline;
+    font-variant: small-caps;
+}
+
+.gambar {
+    width: 400px;
+    width: 300px;
+}
+
+.menu {
+    color: aquamarine;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100;
+    color: rgb(0, 132, 255);
+    font-size: large;
+}
+
+.logo {
+    width: 50px;
+}
+
+.cipta {
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    font-weight: 100px;
+}
+article{
+    background-color: antiquewhite;
+    color: #bb9566;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    line-height: 50px;
+}
+article#dua{
+    background-color: rgb(105, 75, 75);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
